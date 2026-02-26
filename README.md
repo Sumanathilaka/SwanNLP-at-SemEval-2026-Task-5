@@ -1,2 +1,2 @@
-# SwanNLP-at-SemEval-2026-Task-
-This repo contains the codes for the SemEval-2026 Task by SwanNLP.
+# SwanNLP @ SemEval-2026-Task-5
+This repo contains the code and documentation for the SemEval-2026 Task by SwanNLP.
